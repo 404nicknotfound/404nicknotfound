@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi! I'm Andres Aguirre. I'm currently a systems engineering student at the University of the Andes.<br><br>I'm working on two student projects:<br>1. Robocol<br>2. Sephia
+# About me
+Hi! I'm Andres Aguirre. I'm currently a systems engineering student at the University of the Andes.
+
+I'm working on two student projects:
+- [Robocol](https://www.instagram.com/robocol/)
+- [Sephia](https://www.instagram.com/sephiauniandes/)  
+
 
 
 ## 🌐 Socials:
