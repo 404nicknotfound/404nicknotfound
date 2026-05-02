@@ -20,8 +20,8 @@ I'm working on two student projects:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=404nicknotfound&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=404nicknotfound&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=404nicknotfound&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
